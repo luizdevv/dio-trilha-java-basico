@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
-Estudos sobre java da dio
+# 💻 dio-trilha-java-basico
+Estudos sobre java da dio 🤓
